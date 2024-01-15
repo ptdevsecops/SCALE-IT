@@ -1,5 +1,5 @@
 # SCALE-IT - Optimized Testing Frameworks for Cloud-Based Software Systems
-[**SCALE-IT: Distributed and Realistic Simulation Frameworks for Testing Cloud-Based Software**]([https://ieeexplore.ieee.org/document/10226123](https://ieeexplore.ieee.org/document/10295630)) Research study on addressing the challenges of testing cloud-based software through proposed solutions like a distributed testing framework and realistic environment simulation. 
+[**SCALE-IT: Distributed and Realistic Simulation Frameworks for Testing Cloud-Based Software**](https://ieeexplore.ieee.org/document/10295630) Research study on addressing the challenges of testing cloud-based software through proposed solutions like a distributed testing framework and realistic environment simulation. 
 
 **If you use this dataset and code or any herein modified part of it in any publication, please cite these papers:**
 
